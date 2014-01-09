@@ -1,0 +1,3 @@
+#!/bin/bash
+
+(cd `dirname $0` && ../mx -I $1 $1/test.m4)
