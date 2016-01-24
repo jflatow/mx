@@ -1,5 +1,7 @@
 mx_def `SECTION',
 
+# no comments in mx
+
    begin
 HI there
 	sss

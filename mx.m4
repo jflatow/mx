@@ -1,5 +1,7 @@
 m4_divert(-1)
 
+m4_changecom
+
 m4_define(`mx_LQ', `m4_changequote(<,>)`m4_dnl'
 m4_changequote`'')
 m4_define(`mx_RQ', `m4_changequote(<,>)m4_dnl`
